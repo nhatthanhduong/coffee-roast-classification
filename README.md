@@ -2,7 +2,7 @@
 
 A deep learning project for classifying coffee bean roast levels (Green, Light, Medium, Dark) using a hybrid architecture combining:
 
-- Pretrained DINOv3 ConvNeXt backbone (DINOv3 / ConvNeXt)
+- Pretrained DINOv3 ConvNeXt backbone
 - Custom CNN classification head
 
 ## Project Overview
@@ -88,7 +88,7 @@ To improve performance and generalization:
     - Early Stopping (patience = 10)
 
 ## Results
-The best model achieved 100% accuracy on the test set. 
+The best model achieved 100% accuracy on the test set.  
 Download trained model [here](https://drive.google.com/file/d/1KPQCBpnbvkIygk2_pGWkZUXPDX1y_XWt/view?usp=sharing)
 
 ## How to run
